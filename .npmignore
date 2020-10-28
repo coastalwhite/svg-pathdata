@@ -1,0 +1,17 @@
+.vscode
+.github
+
+tsconfig.json
+.prettierrc.toml
+.eslintrc.json
+.gitignore
+
+src
+tests
+docs
+coverage
+
+package-lock.json
+.nycoutput
+
+README.md
